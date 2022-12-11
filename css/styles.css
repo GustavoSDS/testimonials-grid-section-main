@@ -144,6 +144,7 @@
         grid-template-areas: 'card1 card1 card2 card5'
             'card3 card4 card4 card5';
         padding: 0;
+        gap: 25px;
     }
 
     .page__container * {
@@ -215,7 +216,7 @@
         height: 85px;
     }
 
-    .card-size-5 .card__testimonial-comment{
+    .card-size-5 .card__testimonial-comment {
         width: 191px;
         height: 370px;
     }
